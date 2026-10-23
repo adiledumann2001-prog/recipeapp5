@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Classic Lentil Soup",
+    "category": "Soup",
+    "calories": 180,
+    "vegan": true,
+    "ingredients": ["red lentil", "onion", "carrot", "butter", "salt"]
+  },
+  {
+    "name": "Tulum Cheese & Dark Chocolate Dessert",
+    "category": "Fine Dining Dessert",
+    "calories": 350,
+    "vegan": false,
+    "ingredients": ["tulum cheese", "dark chocolate 70%", "heavy cream", "powdered sugar"]
+  },
+  {
+    "name": "Biga Method Pizza Margherita",
+    "category": "Main Course",
+    "calories": 280,
+    "vegan": false,
+    "ingredients": ["high-protein flour", "1g yeast", "san marzano tomatoes", "fresh mozzarella", "basil"]
+  }
+]
